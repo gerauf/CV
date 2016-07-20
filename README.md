@@ -63,7 +63,7 @@ Free online courses delivered by leading universities and organizations
 ## Hobbies and interests
 - Community projects - I helped build a community cookery space in Bristol
 - food - I love to cook good food but prefer to eat it
-- Snowboarding - I really like snowboarding and have done three seasons, 2 in France and one in Canada
+- Snowboarding - I love to snowboard and have spent three winters living in the mountains, 2 in France and one in Canada
 - Table tennis
 
 [fergus.orbach@gmail.com](fergus.orbach@gmail.com)
