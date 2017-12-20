@@ -2,11 +2,15 @@
 
 [Skills](#skills) | [Education](#education) | [Hobbies and Interests](#hobbies) | [Experience](#experience)
 
-I've just finished a 16 week, super-intensive, coding boot camp called [Makers Academy](www.makersacademy.com/). It's one of the best choices I've made and I've lapped up every minute of it. I'm now looking for the next place, somewhere that I take the skills and ideas I've started to learn and progress them to next level.
+I'm a full stack software developer with a particular love for all things functional - currently working with Clojure, React, Redux. :heart:FP
 
-So how did I get here - after finishing a degree in Physics I wasn't quite sure which direction to go in. I followed the advice of one of my lecturers and started working for a renewable energy company. I've always had a strong passion for making stuff and expected to end up building renewable energy sources - instead I segued in the opposite direction and ended up building pricing models. My primary tools were a laptop and Excel and what really took me by surprise was how much my passion for creating things was being satisfied.
+I'm currently employed at [ThoughtWorks](www.thoughtworks.com) as a consultant software developer. ThoughtWorks are a software consultancy who work closely with their clients to deliver high quality bespoke software and agile transformations. They're an absolutely fantastic company to work for and provide oppertunities in so many different places (both mentally and geographically) that never a day goes past without the chance to learn new and interesting things. ThoughtWorks are a mission led company and strive to divert some of their resources and knowledge into combating social and economic injustice. It's important to me to be working somewhere which wants to make a positive impact on society and was definitely one of the reasons that attracted me to them in the first place.
 
-I became obsessed with improving my spreadsheets, from user experience to optimizing speed, adding features and automation I was doing everything to try and make the best spreadsheets possible. I quickly realized my tools were not up to the job and so taught myself VBA and T-SQL, this is when I really got the bug and it soon became apparent that I was going to have to retrain.
+I didn't take the tradiotinal CS path into development and came at things from a bit of a round about direction. After graduating from University (Physics) I ended up in the utilities industry and spent four years working as an analyst. I've always had a strong passion for making stuff and expected to end up building renewable energy sources - instead I segued in the opposite direction and ended up building pricing models. My primary tools were a laptop and Excel and what really took me by surprise was how much my passion for creating things was being satisfied.
+
+I became obsessed with improving my spreadsheets, from user experience to optimizing speed, adding features and automation I was doing everything to try and make the best spreadsheets possible. I quickly realized my tools were not up to the job and so taught myself VBA and T-SQL, this is when I really got the bug and it soon became apparent that I was going to have to retrain. 
+
+A friend of mine had just graduated from a coding bootcamp and after spending a good 12 months weighing up my options I took the plunge and enrolled at [Makers Academy](www.makersacademy.com). It was probably one of the best choices I've ever made and have not looked back since that first day infront of the command line!
 
 ## Skills
 
@@ -27,6 +31,9 @@ I'm very good at scooping ice cream:icecream:. I come from a family of ice cream
 
 ## Experience
 
+**ThoughtWorks** | *January 2017 to present*
+Consultant Software Developer
+
 **Bristol Energy** | *October 2015 to April 2016)*   
 Senior Pricing Analyst (consultant)
 
@@ -41,12 +48,11 @@ Head of frozen treats
 **Makers Academy (April 2016 to July 2016)**   
 A 16 week programming bootcamp with heavy emphasis on XP practices and values
 
-- OOP, TDD, BDD, SOLID, MVC
+- OOP, SOLID, MVC
+- TDD, BDD
 - Software Craftsmanship
 - Pair Programming
 - Agile methodologies
-- Ruby, Rails, Javascript, AngularJS, HTML, CSS
-- RSpec, Capybara, Jasmine, Karma, Protractor
 
 **University of Bristol (2005 to 2009)**
 - Physics
