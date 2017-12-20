@@ -2,9 +2,9 @@
 
 [Skills](#skills) | [Education](#education) | [Hobbies and Interests](#hobbies) | [Experience](#experience)
 
-I'm a full stack software developer with a particular love for all things functional - currently working with Clojure, React, Redux. :heart:FP
+I'm a full stack software developer with a particular love for all things functional - currently working with Clojure, React, Redux. :heart: FP
 
-I'm currently employed at [ThoughtWorks](www.thoughtworks.com) as a consultant software developer. ThoughtWorks are a software consultancy who work closely with their clients to deliver high quality bespoke software and agile transformations. They're an absolutely fantastic company to work for and provide oppertunities in so many different places (both mentally and geographically) that never a day goes past without the chance to learn new and interesting things. ThoughtWorks are a mission led company and strive to divert some of their resources and knowledge into combating social and economic injustice. It's important to me to be working somewhere which wants to make a positive impact on society and was definitely one of the reasons that attracted me to them in the first place.
+I'm presently employed at [ThoughtWorks](www.thoughtworks.com) as a consultant software developer. ThoughtWorks are a software consultancy who work closely with their clients to deliver high quality bespoke software and agile transformations. They're an absolutely fantastic company to work for and provide oppertunities in so many different places (both mentally and geographically) that never a day goes past without the chance to learn new and interesting things. ThoughtWorks are a mission led company and strive to divert some of their resources and knowledge into combating social and economic injustice. It's important to me to be working somewhere which wants to make a positive impact on society and was definitely one of the reasons that attracted me to them in the first place.
 
 I didn't take the tradiotinal CS path into development and came at things from a bit of a round about direction. After graduating from University (Physics) I ended up in the utilities industry and spent four years working as an analyst. I've always had a strong passion for making stuff and expected to end up building renewable energy sources - instead I segued in the opposite direction and ended up building pricing models. My primary tools were a laptop and Excel and what really took me by surprise was how much my passion for creating things was being satisfied.
 
@@ -68,7 +68,7 @@ Free online courses delivered by leading universities and organizations
 
 ## Hobbies and interests
 - Community projects - I helped build a community cookery space in Bristol
-- food - I love to cook good food but prefer to eat it
+- Food - I love to cook good food but prefer to eat it
 - Snowboarding - I love to snowboard and have spent three winters living in the mountains, 2 in France and one in Canada
 - Table tennis
 
