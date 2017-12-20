@@ -31,7 +31,7 @@ I'm very good at scooping ice cream:icecream:. I come from a family of ice cream
 
 ## Experience
 
-**ThoughtWorks** | *January 2017 to present*
+**ThoughtWorks** | *January 2017 to present*              
 Consultant Software Developer
 
 **Bristol Energy** | *October 2015 to April 2016)*   
