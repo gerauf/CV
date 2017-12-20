@@ -58,12 +58,11 @@ A 16 week programming bootcamp with heavy emphasis on XP practices and values
 - Physics
 - MSci 1<sup>st</sup> class (Hons)
 
-**EdX courses:**  
-Free online courses delivered by leading universities and organizations
+**Online courses:**  
 
 - MITs Introduction to Computer Science and Programming Using Python - 98%
 - Microsoft's Querying with Transact-SQL - 97%
-- Currently looking at Functional Programming in Scala on Coursera
+- Currently working towards AWS certified solutions architect associate
 
 
 ## Hobbies and interests
